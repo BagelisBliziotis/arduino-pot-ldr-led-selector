@@ -25,6 +25,7 @@ This was the most complex project I'd built so far. Combining two analog inputs 
 The LDR calibration was something I figured out on the fly the raw readings were not close to the full 0–1023 range so I measured the actual limits and worked out the formula from there.
 The special mode toggle reused the button release technique I first learned in the button-toggle-led project it was the first time I applied something from a previous build directly into a new one without having to think about it somethink that was pretty satisfying.
 *Demo:
+
 **Normal mode:**
 ![IMG_5948-ezgif com-optimize](https://github.com/user-attachments/assets/2fb2e462-329e-4354-8456-9eba9e839afd)
 
